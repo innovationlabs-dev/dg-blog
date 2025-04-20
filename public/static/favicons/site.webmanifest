@@ -1,9 +1,14 @@
 {
-  "name": "",
-  "short_name": "",
+  "name": "Daily Global",
+  "short_name": "DG",
   "icons": [
     {
-      "src": "/android-chrome-96x96.png",
+      "src": "/favicon.ico",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
       "sizes": "96x96",
       "type": "image/png"
     }
