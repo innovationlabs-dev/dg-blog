@@ -48,5 +48,5 @@ yarn-error.log*
 .contentlayer
 
 # Data Content
-/data/blog
-/data/author
+# /data/blog
+# /data/authors
